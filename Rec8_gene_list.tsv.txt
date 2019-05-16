@@ -1,0 +1,329 @@
+Systematic ID	Gene name	Product description
+SPAC3H5.04	aar2	U5 snRNP-associated protein Aar2 (predicted)
+SPBC359.03c	aat1	plasma membrane amino acid transmembrane transporter Aat1
+SPBC1539.06	acb1	fatty-acyl-CoA binding protein Acb1 (predicted)
+SPBC405.01	ade1	phosphoribosylamine-glycine ligase/phosphoribosylformylglycinamidine cyclo-ligase
+SPAC144.03	ade2	adenylosuccinate synthetase Ade2
+SPBC14F5.09c	ade8	adenylosuccinate lyase Ade8
+SPCC1281.01	ags1	"cell wall alpha-1,3-glucan synthase Ags1"
+SPBC1711.08	aha1	chaperone activator Aha1
+SPBC530.10c	anc1	"mitochondrial carrier, ATP:ADP antiporter Anc1"
+SPAC959.09c	apc5	"anaphase-promoting complex, platform subcomplex scaffold TPR subunit Apc5"
+SPCC4G3.02	aph1	bis(5'-nucleosidyl)-tetraphosphatase
+SPNCRNA.1140	aphl-antisense-1	antisense RNA (predicted)
+SPAC3H1.07	aru1	arginase Aru1
+SPAC13G6.10c	asl1	"cell wall protein Asl1, predicted O-glucosyl hydrolase"
+SPBC119.10	asn1	asparagine synthetase
+SPCC550.10	atd3	betaine-aldehyde dehydrogenase Atd3 (predicted)
+SPNCRNA.567	atp3-antisense-1	antisense RNA (predicted)
+SPAC631.02	bdf2	BET family double bromodomain protein Bdf2
+SPCC1840.02c	bgs4	"cell wall and secondary septum 1,6 branched 1,3-beta-glucan synthase catalytic subunit Bgs4"
+SPAC26A3.06	bud23	rRNA (guanine-N7-)-methyltransferase Bud23 (predicted)
+SPBC3D6.02	but2	"But2 family protein But2, similar to cell surface molecules"
+SPBC1D7.05	byr2	MAP kinase kinase kinase Byr2
+SPAC13D6.02c	byr3	"translational activator, zf-CCHC type zinc finger protein (predicted)"
+SPBC21C3.08c	car2	ornithine transaminase Car2
+SPAC22E12.04	ccs1	superoxide dismutase copper chaperone Ccs1
+SPAC1F7.05	cdc22	ribonucleoside reductase large subunit Cdc22
+SPAC1565.08	cdc48	AAA family ATPase involved in ubiquitin-mediated protein degradation Cdc48
+SPBC18H10.15	cdk11	serine/threonine protein kinase Cdk11
+SPAC3G6.11	chl1	ATP-dependent DNA helicase Chl1 (predicted)
+SPBC776.10c	cog6	Golgi transport complex peripheral subunit Cog6 (predicted)
+SPBC146.12	coq6	monooxygenase Coq6 (predicted)
+SPAC2C4.05	cor1	cornichon family protein (predicted)
+SPAC589.09	csr101	"sec14 cytosolic factor family, phospholipid-intermembrane transfer protein Csr1 (predicted)"
+SPAC25G10.07c	cut7	"kinesin-5 family plus-end directed microtubule motor, bimC subfamily Cut7"
+SPAC17C9.13c	cut8	tethering factor for nuclear proteasome Cut8
+SPBC3B9.22c	dad4	DASH complex subunit Dad4
+SPBP8B7.16c	dbp2	ATP-dependent RNA helicase Dbp2
+SPCC1020.05	dcr2	phosphoprotein phosphatase involved in unfolded protein response Dcr2 (predicted)
+SPAC26A3.12c	dhp1	5'-3' exoribonuclease Dhp1
+SPBC3D6.12	dip2	U3 snoRNA associated protein Dip2 (predicted)
+SPBC428.02c	eca39	branched chain amino acid aminotransferase Eca39
+SPBP35G2.16c	ecl2	extender of chronological lifespan protein Ecl2
+SPAC513.01c	eft201	"translation elongation factor 2 (EF-2) Eft2,A"
+SPCP31B10.07	eft202	"translation elongation factor 2 (EF-2) Eft2,B"
+SPAC1B2.03c	elo2	fatty acid elongase Elo2 (predicted)
+SPBC18E5.05c	elp5	elongator complex subunit Elp5 (predicted)
+SPBC4F6.13c	erb1	WD repeat/BOP1NT protein Erb1 (predicted)
+SPBC4F6.16c	ero11	ER oxidoreductin Ero1a
+SPBC1105.05	exg1	"cell wall glucan 1,6-beta-glucosidase Exg1"
+SPAC4A8.11c	fas2	fatty acid synthase alpha subunit Fas2
+SPBC1685.13	fhn1	eisosome assembly protein Fhn1
+SPBC2D10.10c	fib1	"fibrillarin, rRNA methyltransferase"
+SPBC29A10.08	gas2	"cell wall 1,3-beta-glucanosyltransferase Gas2"
+SPAC11E3.13c	gas5	"cell wall protein 1,3-beta-glucanosyltransferase Gas5 (predicted)"
+SPCC825.02	gbs1	glucosidase II beta subunit
+SPCC548.06c	ght8	"plasma membrane hexose:proton symporter, unknown specificity Ght8 (predicted)"
+SPAPB1E7.07	glt1	glutamate synthase Glt1
+SPCC4B3.02c	got1	Golgi transport protein Got1 (predicted)
+SPAPB2B4.01c	gpi12	"pig-L, N-acetylglucosaminylphosphatidyl inositoldeacetylase (predicted)"
+SPBC2F12.14c	gua1	IMP dehydrogenase Gua1
+SPAC24B11.13	hem3	hydroxymethylbilane synthase Hem3 (predicted)
+SPBC776.12c	hsk1	Dbf4(Dfp1)-dependent protein kinase Hsk1
+SPCC550.06c	hsp10	mitochondrial heat shock protein Hsp10 (predicted)
+SPAC19G12.06c	hta2	histone H2A beta
+SPCC622.19	jmj4	peptidyl-lysine 3-dioxygenase activity jmj4 (predicted)
+SPAC22G7.05	kri1	ribosome biogenesis protein Kri1 (predicted)
+SPBC16C6.12c	las1	Las1 pre-rRNA processing protein
+SPAC9E9.03	leu2	3-isopropylmalate dehydratase Leu2
+SPAC3F10.17	ltv1	ribosome biogenesis protein Ltv1 (predicted)
+SPAPB8E5.03	mae1	plasma membrane malate/succinate:proton symporter Mae1
+SPNCRNA.1487	mag2-antisense-1	antisense RNA (predicted)
+SPCC1795.06	map2	P-factor pheromone Map2
+SPAC19G12.05	mce1	"mitochondrial carrier, citrate (predicted)"
+SPAC11G7.05c	mct1	mitochondrial [acyl-carrier protein] S-malonyltransferase Mct1 (predicted)
+SPAC17A5.04c	mde10	spore wall assembly ADAM family peptidase Mde10
+SPAC23C11.17	mdm28	mitochondrial inner membrane protein involved in translation Mdm28 (predicted)
+SPBC14F5.08	med7	mediator complex subunit Med7
+SPBP22H7.09c	mis15	CENP-N ortholog Mis15
+SPBC1826.01c	mot1	TATA-binding protein-associated transcription initiation repressor Mot1 (predicted)
+SPBP8B7.15c	mpe1	mRNA cleavage ubiquitin-protein ligase E3 Mpe1 (predicted)
+SPAC23A1.18c	mrp51	mitochondrial ribosomal protein subunit L51-b (predicted)
+SPAC13F5.01c	msh1	mitochondrial MutS protein Msh1 (predicted)
+SPCC1183.11	msy1	MS calcium ion channel protein Msy1
+SPBC146.13c	myo1	myosin type I
+SPNCRNA.1696	nam3	lncRNA nam3
+SPBC1604.06c	noc4	CBF/Mak21 family Noc4 (predicted)
+SPCC550.05	nse1	Smc5-6 complex ubiquitin-protein ligase E3 subunit Nse1
+SPBC119.09c	orm1	ORMDL family protein Orm1 (predicted)
+SPBC2F12.05c	osh2	sterol intermembrane transfer protein Osh2 (predicted)
+SPBC29A3.13	pdp1	PWWP domain protein Pdp1
+SPAC3G9.12	peg1	CLASP family microtubule-associated protein
+SPAPB15E9.01c	pfl2	"cell surface glycoprotein, flocculin Pfl2"
+SPBC1604.05	pgi1	glucose-6-phosphate isomerase (predicted)
+SPAC29B12.10c	pgt1	plasma membrane glutathione transmembrane transporter Pgt1
+SPBC8E4.01c	pho84	inorganic phosphate transmembrane transporter (predicted)
+SPCC736.15	pil1	eisosome BAR domain protein Pil1
+SPAC1687.05	pli1	SUMO E3 ligase Pli1
+SPAC9E9.11	plr1	pyridoxal reductase Plr1
+SPBC119.08	pmk1	MAP kinase Pmk1
+SPCC330.06c	pmp20	thioredoxin-related chaperone Pmp20 (predicted)
+SPAC13D6.01	pof14	F-box protein Pof14
+SPNCRNA.807	pof14-antisense-1	"antisense RNA (predicted), possible alternative UTR"
+SPCC1827.08c	pof7	F-box protein Pof7
+SPCC830.09c	pop5	RNase P and RNase MRP subunit Pop5
+SPBC28F2.03	ppi1	cyclophilin family peptidyl-prolyl cis-trans isomerase Cyp2
+SPAPB18E9.02c	ppk18	greatwall kinase Ppk18
+SPCC1795.04c	pre10	"20S proteasome complex subunit alpha 7, Pre10"
+SPNCRNA.32	prl32	"non-coding RNA, poly(A)-bearing (predicted)"
+spncrna.9001	prt2	pho84 repressing sense RNA Prt2
+SPAC110.04c	pss1	heat shock protein Pss1
+SPBC16G5.13	ptf2	Mst2 histone acetytransferase acytyltransferase complex subunit
+SPBC56F2.08c	puf1	pumilio family RNA-binding protein Puf1 (predicted)
+SPBC216.05	rad3	ATR checkpoint kinase Rad3
+SPAC664.07c	rad9	checkpoint clamp complex protein Rad9
+SPAC22E12.05c	rer1	Rer1 family protein (predicted)
+SPAC144.12	rki1	ribose 5-phosphate isomerase Rki1 (predicted)
+SPAC664.06	rlp7	ribosomal protein L7-like Rlp7 involved in ribosome biogenesis (predicted)
+SPCC613.04c	rng3	UCS-domain protein Rng3
+SPAC4A8.10	rog1	acylglycerol lipase (predicted)
+SPBC839.12	rpc31	DNA-directed RNA polymerase III complex subunit Rpc31
+SPBC18E5.04	rpl1001	60S ribosomal protein L10
+SPAP7G5.05	rpl1002	60S ribosomal protein L10
+SPNCRNA.933	rpl1002-antisense-1	antisense RNA (predicted)
+SPCC31H12.04c	rpl1202	60S ribosomal protein L12.1/L12A
+SPAC664.05	rpl13	60S ribosomal protein L13 (predicted)
+SPAC1805.13	rpl14	60S ribosomal protein L14 (predicted)
+SPCC576.11	rpl15	60S ribosomal protein L15 (predicted)
+SPBC839.13c	rpl1601	60S ribosomal protein L13/L16 (predicted)
+SPBC2F12.04	rpl1701	60S ribosomal protein L17
+SPBC56F2.02	rpl1901	60S ribosomal protein L19
+SPNCRNA.1261	rpl20-antisense-1	"antisense RNA (predicted), possible alternative UTR"
+SPAC3A12.10	rpl2001	60S ribosomal protein L20a (predicted)
+SPNCRNA.741	rpl2001-antisense-1	antisense RNA (predicted)
+SPAC959.08	rpl2102	60S ribosomal protein L21 (predicted)
+SPAC3G9.03	rpl2301	60S ribosomal protein L23
+SPAC6G9.09c	rpl2401	60S ribosomal protein L24 (predicted)
+SPCC330.14c	rpl2402	60S ribosomal protein L24 (predicted)
+SPBC106.18	rpl2501	60S ribosomal protein L25 (predicted)
+SPBC776.11	rpl2801	60S ribosomal protein L27/L28
+SPCC5E4.07	rpl2802	60S ribosomal protein L27/L28
+SPAC17A5.03	rpl301	60S ribosomal protein L3
+SPAPB8E5.06c	rpl302	60S ribosomal protein L3
+SPBC16C6.11	rpl3201	60S ribosomal protein L32
+SPAC23A1.08c	rpl3401	60S ribosomal protein L34
+SPCC613.05c	rpl35	60S ribosomal protein L35
+SPCC970.05	rpl3601	60S ribosomal protein L36
+SPCC1223.05c	rpl3702	60S ribosomal protein L37 (predicted)
+SPAC3G6.13c	rpl4101	60S ribosomal protein L41
+SPAC3F10.18c	rpl4102	60S ribosomal protein L41 (predicted)
+SPAC1687.06c	rpl44	60S ribosomal protein L28/L44 (predicted)
+SPAC3H5.12c	rpl501	60S ribosomal protein L5 (predicted)
+SPCC622.18	rpl6	60S ribosomal protein L6 (predicted)
+SPBC18H10.12c	rpl701	"RNase MRP subunit, ribosomal protein L7-like Rpl701"
+SPAC3H5.07	rpl702	60S ribosomal protein L7b involved in cytoplasmic translation
+SPBC29A3.04	rpl8	60S ribosomal protein L7a/L8 (predicted)
+SPAC1F7.13c	rpl801	60S ribosomal protein L8/L2 (predicted)
+SPAC4G9.16c	rpl901	60S ribosomal protein L9
+SPCC18.14c	rpp0	60S acidic ribosomal protein Rpp0 (predicted)
+SPCP1E11.09c	rpp103	60S acidic ribosomal protein Rpp1-3
+SPAPJ698.02c	rps002	40S ribosomal protein S0B
+SPBP22H7.08	rps1002	40S ribosomal protein S10 (predicted)
+SPAC13G6.02c	rps101	40S ribosomal protein S3a
+SPAC31G5.03	rps1101	40S ribosomal protein S11 (predicted)
+SPCC962.04	rps1201	40S ribosomal protein S12 (predicted)
+SPAC3H5.05c	rps1401	40S ribosomal protein S14 (predicted)
+SPBC18H10.14	rps1601	40S ribosomal protein S16 (predicted)
+SPNCRNA.1465	rps1601-antisense-1	antisense RNA (predicted)
+SPCC24B10.09	rps1702	40S ribosomal protein S17 (predicted)
+SPCC576.09	rps20	40S ribosomal protein S20 (predicted)
+SPBC18E5.06	rps21	40S ribosomal protein S21
+SPBP4H10.13	rps2302	40S ribosomal protein S23 (predicted)
+SPAC25G10.06	rps2801	40S ribosomal protein S28 (predicted)
+SPBC16G5.14c	rps3	40S ribosomal protein S3 (predicted)
+SPAC13G6.07c	rps601	40S ribosomal protein S6
+SPAPB1E7.12	rps602	40S ribosomal protein S6
+SPAC18G6.14c	rps7	40S ribosomal protein S7 (predicted)
+SPAC2C4.16c	rps801	40S ribosomal protein S8 (predicted)
+SPAC24H6.07	rps901	40S ribosomal protein S9
+SPBC29A3.12	rps902	40S ribosomal protein S9 (predicted)
+SPBC23G7.12c	rpt6	19S proteasome base subcomplex ATPase subunit Rpt6
+SPNCRNA.128	rrk1	RNase P K-RNA
+SPCC1672.02c	sap1	switch-activating protein Sap1
+SPATRNAALA.03	scn1	tRNA Alanine
+SPAC17C9.12	scs22	VAP family protein Scs22
+SPCC330.12c	sdh3	succinate dehydrogenase (ubiquinone) cytochrome b subunit (predicted)
+SPBC26H8.16	sdh8	mitochondrial respiratory chain complex II assembly factor 4 Sdh8 (predicted)
+SPAC222.09	seb1	RNA-binding and 3'-end processing protein Seb1
+SPCC364.07	ser3	D-3 phosphoglycerate dehydrogenase Ser3 (predicted)
+SPAC23G3.02c	sib1	ferrichrome synthetase Sib1
+SPSNORNA.31	snoR39a	small nucleolar RNA snR39
+SPSNORNA.22	snoR54	small nucleolar RNA snR54 (predicted)
+SPSNORNA.19	snoR69	small nucleolar RNA
+SPBC2D10.09	snr1	3-hydroxyisobutyryl-CoA hydrolase snr1
+SPSNORNA.37	snR10	box H/ACA small nucleolar RNA snR10
+SPSNORNA.36	snR5	box H/ACA small nucleolar RNA snR5
+SPSNORNA.54	snr79	small nucleolar RNA snR79 (predicted)
+SPSNORNA.53	snR88	small nucleolar RNA snR88
+SPSNORNA.44	snR92	box H/ACA small nucleolar RNA snR92
+SPSNRNA.05	snu5	small nuclear RNA U5
+SPNCRNA.678	SPAC22G7.05-antisense-1	antisense RNA (predicted)
+SPNCRNA.955	SPAC27E2.02-antisense-1	antisense RNA (predicted)
+SPNCRNA.839	SPAC4A8.10-antisense-1	antisense RNA (predicted)
+SPNCRNA.1072	SPAP8A3.07c-antisense-1	antisense RNA (predicted)
+SPNCRNA.954	SPAPB15E9.02c-antisense-1	"antisense RNA (predicted), possible alternative UTR"
+SPNCRNA.1344	SPBC1271.08c-antisense-1	antisense RNA (predicted)
+SPNCRNA.1642	SPBC21C3.07c-antisense-1	antisense RNA (predicted)
+SPNCRNA.1671	SPBC56F2.03-antisense-1	antisense RNA (predicted)
+SPNCRNA.1667	SPBC56F2.07c-antisense-1	antisense RNA (predicted)
+SPBC16A3.01	spn3	mitotic septin Spn3
+SPAC4D7.10c	spt20	SAGA complex subunit Spt20
+SPAC664.11	ssc1	mitochondrial (2Fe-2S) cluster assembly chaperone Ssc1
+SPAC27D7.13c	ssm4	"dynactin microtubule-binding subunit, p150-Glued Ssm4"
+SPBC23E6.09	ssn6	transcriptional corepressor Ssn6
+SPAC17G6.10	ssr1	SWI/SNF and RSC complex subunit Ssr1
+SPBC776.09	ste13	ATP-dependent RNA helicase Ste13
+SPCC61.01c	str2	plasma membrane siderophore-iron transmembrane transporter Str2
+SPBC216.06c	swi1	replication fork protection complex subunit Swi1
+SPBC4F6.15c	swi10	DNA repair endonuclease non-catalytic subunit Swi10
+SPNCRNA.1545	swi10-antisense-1	antisense RNA (predicted)
+SPAC15A10.02	taf12	transcription factor TFIID complex subunit A/ SAGA complex subunit Taf12
+SPAC29E6.08	tbp1	TATA-binding protein (TBP)
+SPCC962.01	tcb1	"tricalbin, C2 domain protein (phospholipid binding) ER-plasma membrane tethering protein Tcb1 (predicted)"
+SPAC23A1.10	tef102	translation elongation factor EF-1 alpha Ef1a-b
+SPNCRNA.957	tef102-antisense-1	antisense RNA (predicted)
+SPAC1006.07	tif1	translation initiation factor eIF4A tif1
+SPAC4D7.09	tif223	translation initiation factor eIF2B gamma subunit
+SPAC6F12.05c	tnr3	thiamine diphosphokinase Tnr3/ Nudix hydrolase fusion protein
+SPBC713.08	tom13	mitochondrial TOM complex assembly protein Tom13 (predicted)
+SPBC29A10.09c	tri1	"triman, ribonuclease involved in priRNA formation Tri1"
+SPBC21C3.07c	trm140	tRNA (cytosine) methyltransferase Trm140 (predicted)
+SPAC13G6.09	trs402	SSU-rRNA maturation protein Tsr4 homolog 2 Tsr402 (predicted)
+SPBC14F5.02	trs65	TRAPP complex subunit Trs65 (predicted)
+SPAC7D4.07c	trx1	cytosolic thioredoxin Trx1
+SPBC119.02	ubc4	ubiquitin conjugating enzyme E2 for APC and SCF Ubc4/UbcP1
+SPNCRNA.1382	ubc4-antisense-1	antisense RNA (predicted)
+SPBC337.08c	ubi4	"protein modifier, ubiquitin"
+SPAC589.10c	ubi5	ribosomal-ubiquitin fusion protein Ubi5 (predicted)
+SPBC19C2.04c	ubp11	ubiquitin C-terminal hydrolase Ubp11
+SPBC713.02c	ubp15	ubiquitin C-terminal hydrolase Ubp15
+SPAC6G9.08	ubp6	ubiquitin C-terminal hydrolase Ubp6
+SPBC1703.12	ubp9	ubiquitin C-terminal hydrolase Ubp9
+SPAC22G7.06c	ura1	"carbamoyl-phosphate synthase (glutamine hydrolyzing), aspartate carbamoyltransferase Ura1"
+SPCC1795.05c	ura6	uridylate kinase Ura6
+SPBC3B9.10	vti1	SNARE Vti1 (predicted)
+SPAC9E9.13	wos2	"p23 homolog, predicted co-chaperone Wos2"
+SPAC9E9.12c	ybt1	ABC transmembrane transporter Ybt1
+SPAC27E2.02	yih1	"IMPACT homolog, cytoplasmic translational regulator Yih1 (predicted)"
+SPCC24B10.10c	yta4	mitochondrial outer membrane ATPase Msp1/Yta4 (predicted)
+SPAC105.03c		transcription factor (predicted)
+SPAC11E3.12		"mitochondrial thioredoxin family protein, implicated in sulfur cluster assembly"
+SPAC12B10.01c		"HECT-type ubiquitin-protein ligase E3, implicated in negative regulation of ubiquitinated chromatin formation (predicted)"
+SPAC13C5.05c		N-acetylglucosamine-phosphate mutase (predicted)
+SPAC17G6.11c		sphingolipid biosynthesis protein (predicted)
+SPAC186.02c		"hydroxyacid dehydrogenase, implicated in cellular detoxification (predicted)"
+SPAC25B8.12c		"HAD superfamily hydrolase, unknown role"
+SPAC26A3.11		mitochondrial omega-amidase (predicted)
+SPAC26F1.07		glucose 1-dehydrogenase (NADP+) (predicted)
+SPAC3G6.05		mitochondrial Mpv17/PMP22 family protein 1 (predicted)
+SPAC3H1.06c		transmembrane transporter (predicted)
+SPAC664.12c		mitochondrial succinate dehydrogenase assembly factor 1 (predicted)
+SPAC806.02c		CIA machinery CIA1/CFD1 fusion protein (predicted)
+SPAC922.04		Schizosaccharomyces specific protein
+SPAC977.14c		"aldo/keto reductase, predicted calcium channel regulator"
+SPAP8A3.07c		phospho-2-dehydro-3-deoxyheptonate aldolase (predicted)
+SPATRNAARG.01		tRNA Arginine
+SPATRNALEU.02		tRNA Leucine
+SPATRNALYS.04		tRNA Lysine
+SPATRNAPHE.01		tRNA Phenylalanine
+SPATRNATHR.01		tRNA Threonine
+SPATRNATHR.03		tRNA Threonine
+SPATRNATHR.04		tRNA Threonine
+SPATRNATYR.01		tRNA Tyrosine
+SPBC1198.06c		"mannan endo-1,6-alpha-mannosidase (predicted)"
+SPBC1271.08c		Schizosaccharomyces pombe specific protein
+SPBC1683.01		inorganic phosphate transmembrane transporter (predicted)
+SPBC16A3.02c		"mitochondrial CH-OH group oxidoreductase, human RTN4IP1 ortholog, implicated in mitochondrial organization or tethering"
+SPBC1711.09c		SNARE associated Golgi protein (predicted)
+SPBC24C6.03		mitochondrial proline-tRNA ligase (predicted)
+SPBC31A8.02		pseudogene
+SPBC405.02c		Schizosaccharomyces specific protein
+SPBC530.08		membrane-tethered transcription factor (predicted)
+SPBP4H10.14c		Schizosaccharomyces specific protein
+SPBTRNAGLN.04		tRNA Glutamine
+SPBTRNAGLY.06		tRNA Glycine
+SPBTRNALEU.05		tRNA Leucine
+SPBTRNALEU.08		tRNA Leucine
+SPBTRNALEU.10		tRNA Leucine
+SPBTRNALYS.09		tRNA Lysine
+SPBTRNAPRO.05		tRNA Proline
+SPBTRNAPRO.08		tRNA Proline
+SPBTRNATHR.06		tRNA Threonine
+SPCC11E10.01		cystathionine beta-lyase (predicted)
+SPCC1322.10		"conserved fungal cell surface protein, Kre9/Knh1 family"
+SPCC1672.01		histidinol-phosphatase (predicted)
+SPCC417.16		mitochondrial protein (predicted)
+SPCC553.10		"conserved fungal cell surface protein, Kre9/Knh1 family (predicted)"
+SPCTRNAGLN.05		tRNA Glutamine
+SPCTRNAGLY.10		tRNA Glycine
+SPCTRNAHIS.03		tRNA Histidine
+SPCTRNASER.12		tRNA Serine
+SPCTRNAVAL.11		tRNA Valine
+SPNCRNA.1015		antisense RNA (predicted)
+SPNCRNA.110		non-coding RNA (predicted)
+SPNCRNA.1197		intergenic RNA (predicted)
+SPNCRNA.1472		intergenic RNA (predicted)
+SPNCRNA.1490		intergenic RNA (predicted)
+SPNCRNA.1499		intergenic RNA (predicted)
+SPNCRNA.1651		intergenic RNA (predicted)
+SPNCRNA.218		non-coding RNA (predicted)
+SPNCRNA.219		non-coding RNA (predicted)
+SPNCRNA.265		non-coding RNA (predicted)
+SPNCRNA.403		non-coding RNA (predicted)
+SPNCRNA.477		non-coding RNA (predicted)
+SPNCRNA.515		non-coding RNA (predicted)
+SPNCRNA.532		non-coding RNA (predicted)
+SPNCRNA.756		intergenic RNA (predicted)
+SPNCRNA.87		non-coding RNA (predicted)
+SPNCRNA.870		antisense RNA (predicted)
+SPNCRNA.893		intergenic RNA (predicted)
+SPNCRNA.942		intergenic RNA (predicted)
+SPRRNA.12		5S rRNA
+SPRRNA.14		5S rRNA
+SPRRNA.19		5S rRNA
+SPRRNA.27		5S rRNA
+SPRRNA.30		5S rRNA
+SPRRNA.31		5S rRNA
+SPRRNA.35		5S rRNA
+SPRRNA.36		5S rRNA
